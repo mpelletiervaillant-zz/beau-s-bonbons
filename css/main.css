@@ -150,3 +150,31 @@ div.card-body {
   padding-left: 10px;
   padding-bottom: 1rem;
 }
+
+ul.prod-list {
+  list-style-type: none;
+}
+
+li.prod-btn {
+  display: inline-block;
+  position: relative;
+}
+
+img.prod {
+  width: 5em;
+  border-radius: 7px;
+}
+
+.btn-content h3 {
+  color: white;
+  font-size: 1.8em;
+  margin: 0;
+  position: absolute;
+  width: 90%;
+  bottom: .5em;
+  text-align: center;
+}
+
+.prod-btn:hover {
+  opacity: 0.5;
+}
