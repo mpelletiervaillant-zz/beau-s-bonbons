@@ -21,6 +21,14 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: white;
+  text-align: center;
+  background-color: #fe3fa9;
+  margin: 0;
+  padding: .5em 1em;
+}
+
 .banner {
   position: relative;
   max-height: 150px;
