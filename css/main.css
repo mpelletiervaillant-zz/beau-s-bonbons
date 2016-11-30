@@ -30,9 +30,14 @@ h1 {
   padding: .5em 1em;
 }
 
+nav {
+  text-align: center;
+}
 nav ul {
   list-style-type: none;
+  display: inline-block;
   padding: 0;
+  margin: 0;
 }
 
 nav li {
@@ -41,11 +46,12 @@ nav li {
   text-align: center;
   border: 1px solid #01a2be;
   margin: .2em;
+  background-color: #01a2be;
 }
 
 nav a {
   text-decoration: none;
-  color: #01a2be;
+  color: white;
 }
 
 .banner {
@@ -67,8 +73,6 @@ nav a {
   text-shadow: 2px 2px 5px black;
 }
 
-
 h2 {
   font-family: "Amatica SC", sans-serif;
-}
 }
