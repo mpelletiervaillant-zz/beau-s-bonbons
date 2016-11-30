@@ -32,15 +32,20 @@ h1 {
 
 nav ul {
   list-style-type: none;
+  padding: 0;
 }
 
 nav li {
   float: left;
-  width: 50%;
+  width: 47%;
+  text-align: center;
+  border: 1px solid #01a2be;
+  margin: .2em;
 }
 
 nav a {
   text-decoration: none;
+  color: #01a2be;
 }
 
 .banner {
