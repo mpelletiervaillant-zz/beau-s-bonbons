@@ -33,6 +33,7 @@ h1 {
 nav {
   text-align: center;
 }
+
 nav ul {
   list-style-type: none;
   display: inline-block;
@@ -44,14 +45,22 @@ nav li {
   float: left;
   width: 47%;
   text-align: center;
-  border: 1px solid #01a2be;
   margin: .2em;
   background-color: #01a2be;
+  padding: .3em;
 }
 
 nav a {
   text-decoration: none;
   color: white;
+}
+
+nav li:hover {
+  background-color: #ffe85a;
+}
+
+nav a:hover {
+  color: #01a2be;
 }
 
 .banner {
