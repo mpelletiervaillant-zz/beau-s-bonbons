@@ -86,6 +86,19 @@ nav a:hover {
   font-family: "Amatica SC", sans-serif;
 }
 
+section.about {
+  background-color: #ffe85a;
+}
+
+div.body-about {
+  padding: 1em;
+}
+
+.about h2 {
+  margin-top: 0;
+}
+
 .about p {
   font-family: 'Playfair Display', serif;
+  font-size: .9em;
 }
