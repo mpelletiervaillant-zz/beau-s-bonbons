@@ -82,6 +82,10 @@ nav a:hover {
   text-shadow: 2px 2px 5px black;
 }
 
-h2 {
+.banner-content h2 {
   font-family: "Amatica SC", sans-serif;
+}
+
+.about p {
+  font-family: 'Playfair Display', serif;
 }
