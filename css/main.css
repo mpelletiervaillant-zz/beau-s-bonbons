@@ -111,7 +111,7 @@ ul.people {
 }
 
 li.card-one {
-  margin: 2em;
+  margin: .5em 2em;
   border: 3px solid #01a2be;
   border-radius: 10px;
   background-color: white;
