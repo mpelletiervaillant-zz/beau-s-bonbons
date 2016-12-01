@@ -153,6 +153,7 @@ div.card-body {
 
 ul.prod-list {
   list-style-type: none;
+  padding: 1em;
 }
 
 li.prod-btn {
@@ -167,12 +168,15 @@ img.prod {
 
 .btn-content h3 {
   color: white;
-  font-size: 1.8em;
+  font-size: 1.5em;
   margin: 0;
   position: absolute;
   width: 90%;
-  bottom: .5em;
+  bottom: .65em;
   text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  text-shadow: 2px 2px 5px black;
 }
 
 .prod-btn:hover {
